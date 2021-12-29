@@ -1,5 +1,3 @@
-package c1611053_ceng497lab6;
-
 import java.awt.Button;
 import java.awt.Color;
 import java.awt.Frame;
